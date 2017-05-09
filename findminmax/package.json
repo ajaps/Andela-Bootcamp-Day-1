@@ -1,0 +1,21 @@
+{
+  "name": "findminmax",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app/index.js",
+  "directories": {
+    "test": "jasmine test/test.js"
+  },
+  "scripts": {
+    "test": "jasmine test/test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/framky007/Andela-Bootcamp-Day1.git"
+  },
+  "author": "Ajaps Franklin",
+  "license": "ISC",
+  "dependencies": {
+    "jasmine": "^2.6.0"
+  }
+}
