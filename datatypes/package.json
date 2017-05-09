@@ -1,0 +1,21 @@
+{
+  "name": "datatypes",
+  "version": "1.0.0",
+  "description": "implementaion for data types",
+  "main": "app/index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "jasmine test/test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/framky007/Andela-Bootcamp-Day1.git"
+  },
+  "author": "Ajaps Franklin",
+  "license": "ISC",
+  "dependencies": {
+    "jasmine": "^2.6.0"
+  }
+}
