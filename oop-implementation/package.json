@@ -1,0 +1,25 @@
+{
+  "name": "oop-implementation-using-banking-system",
+  "version": "1.0.0",
+  "description": "OOP implementation using the banking system model",
+  "main": "index.js",
+  "directories": {
+    "test": "jasmine test/test.js"
+  },
+  "scripts": {
+    "test": "jasmine test/test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/framky007/Andela-Bootcamp-Day1.git"
+  },
+  "author": "Ajaps Franklin",
+  "license": "ISC",
+    "dependencies": {
+    "jasmine": "^2.6.0"
+  },
+  "bugs": {
+    "url": "https://github.com/framky007/Andela-Bootcamp-Day1/issues"
+  },
+  "homepage": "https://github.com/framky007/Andela-Bootcamp-Day1#readme"
+}
